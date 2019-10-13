@@ -20,3 +20,29 @@
 .App-link {
   color: #09d3ac;
 }
+
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+  -webkit-print-color-adjust:exact;
+  -webkit-filter:opacity(1);
+}
+
+body {
+  height: 100%;
+  width: 8.5in;
+}
+
+.mealticket {
+  font-family: 'Chunkfive';
+}
+
+@font-face {
+  font-family: 'Chunkfive';
+  src: url('./Chunkfive.ttf') format('truetype') /* Safari, Android, iOS */
+}
