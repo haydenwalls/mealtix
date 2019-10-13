@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mealtix/static/css/main.a2c9f050.chunk.css",
+    "main.js": "/mealtix/static/js/main.b0fe4964.chunk.js",
+    "main.js.map": "/mealtix/static/js/main.b0fe4964.chunk.js.map",
+    "runtime-main.js": "/mealtix/static/js/runtime-main.5f667940.js",
+    "runtime-main.js.map": "/mealtix/static/js/runtime-main.5f667940.js.map",
+    "static/js/2.7fdf0ef1.chunk.js": "/mealtix/static/js/2.7fdf0ef1.chunk.js",
+    "static/js/2.7fdf0ef1.chunk.js.map": "/mealtix/static/js/2.7fdf0ef1.chunk.js.map",
+    "index.html": "/mealtix/index.html",
+    "precache-manifest.28d73fa23f01de08be09c9005e4d6eb3.js": "/mealtix/precache-manifest.28d73fa23f01de08be09c9005e4d6eb3.js",
+    "service-worker.js": "/mealtix/service-worker.js",
+    "static/css/main.a2c9f050.chunk.css.map": "/mealtix/static/css/main.a2c9f050.chunk.css.map",
+    "static/media/App.css": "/mealtix/static/media/Chunkfive.121c0534.ttf",
+    "static/media/logo.svg": "/mealtix/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f667940.js",
+    "static/js/2.7fdf0ef1.chunk.js",
+    "static/css/main.a2c9f050.chunk.css",
+    "static/js/main.b0fe4964.chunk.js"
+  ]
+}
